@@ -1,7 +1,8 @@
-### I'm Aoko 👋
-<a href="javascript: void 0;">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Aokoooooo&theme=dracula&show_icons=true&include_all_commits=true&count_private=true&hide=contribs,issues" />
-</a>
-<a href="javascript: void 0;">
-  <img  align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aokoooooo&theme=dracula&layout=compact" />
-</a>
+## I'm Aoko 👋
+
+I'm the CTO of the Taaakooo Tech LLC, senior Full Stack Engineer.
+
+## [NeonLingo](https://www.neonlingo.com)
+Using AI, we created a browser plugin to help users learn and translate foreign languages. It can help you analyze the meaning of words in context, as well as tag words on all web pages so that you can quickly get a sense of what they mean just by hovering over them.
+If you want to experience a new way of learning a language, please go [here](https://wwww.neonlingo.com).
+
